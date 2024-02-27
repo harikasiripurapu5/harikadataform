@@ -1,0 +1,9 @@
+config {
+    type:'table',
+    name:'info2tbl_d',
+    schema:'harika_dataset',
+    tags:['newone']
+}
+
+
+select * from `secure-potion-409606.harika_dataset.info2`
